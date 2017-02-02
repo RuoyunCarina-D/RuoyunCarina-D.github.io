@@ -7,22 +7,18 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016 - 2018`
+__The George Washington University__
+Master Degree
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2016`
+__Renmin University of China__
+Bachelor Degree 
 
 ## Awards
 
 `2012`
 Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
