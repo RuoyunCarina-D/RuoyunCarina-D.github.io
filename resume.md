@@ -20,30 +20,13 @@ Bachelor Degree
 `2012`
 Name of Award, Organization 
 
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
+## Projects
 
 `1994`
 Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
-## Occupation
+## Internship
 
 `Current`
 __Current Job Title__, Current Employer 
@@ -57,8 +40,7 @@ __Current Job Title__, Current Employer
 - Task
 - Task
 
-
-
+## Volunteers
 <!-- ### Footer
 
 Last updated: May 2013 -->
