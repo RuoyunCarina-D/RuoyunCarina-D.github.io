@@ -8,15 +8,15 @@ logo:             # filename of a logo image that has been placed into your imag
 # Enter the following platform usernames if you would like for them to appear on your site.
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
-  name: Your Name
+  name: Ruoyun (Carina) Deng
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "First-year master candidate in Data Science in The George Washington University"
+  email: dengruoyun@gwmail.gwu.edu
   twitter: #username
   facebook: #username
   instagram: #username
-  linkedin: #username
-  github: #username
+  linkedin: ruoyun-carina-deng
+  github: RuoyunCarina-D
   researchgate: #username
   mendeley: #username
   google:
