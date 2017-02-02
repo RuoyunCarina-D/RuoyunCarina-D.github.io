@@ -20,7 +20,7 @@ Bachelor Degree
 `2012`
 Name of Award, Organization 
 
-#### Journals
+### Journals
 
 `1994`
 Article Title, Journal Title
@@ -28,7 +28,7 @@ Article Title, Journal Title
 `1994`
 Article Title, Journal Title
 
-#### Books
+### Books
 
 `1994`
 Book Title, Journal Title
