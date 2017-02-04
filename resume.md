@@ -3,7 +3,9 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Master Candidate in Data Science in The George Washington University
+Member of GW DATA Club
+Member of GW Chinese Students and Scholars Association
 
 ## Education
 
@@ -22,25 +24,27 @@ Name of Award, Organization
 
 ## Projects
 
-`1994`
+`2016`
 Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Internship
 
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
+`March 2016 - July 2016`
+__Data Analyst Intern__, UBER 
 
 - Task
 - Task
 
 ## Volunteers
+
+`March 2016 - July 2016`
+__Project Manager__, SK SUNNY Campus Volunteers
+
+- Task
+- Task
+
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
