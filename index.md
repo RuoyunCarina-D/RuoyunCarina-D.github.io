@@ -3,11 +3,16 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello, Welcome to my personal profolio website. I am now pursing master degree of Data Science in Columbia College of Art and Science in The George Washington University. I graduated from Renmin University of China with Bachelor degree in Management majoying in Human Resource and Lable Economics.
 
-## Current Interests and Projects:
+##  Ongoiong Projects
+- Assess the interconnectivity of cancer coalitions in FL, KY, SD and VT of years during 2015 and 2016
+- Linux Environment Training
+- High Performance Computering Training
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+## Current Interests
+
+- Social Media/Network Analysis
+- Health and Genome area
+
+
