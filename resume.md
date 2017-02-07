@@ -39,7 +39,7 @@ Data Analyst Intern, __UBER__
 ## Volunteers
 
 `March 2016 - July 2016`
-__Project Manager__, SK SUNNY Campus Volunteers
+Project Manager, __SK SUNNY Campus Volunteers__
 
 - Task
 - Task
