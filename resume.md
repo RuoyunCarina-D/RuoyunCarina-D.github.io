@@ -9,29 +9,29 @@ Member of GW Chinese Students and Scholars Association
 
 ## Education
 
-`2016 - 2018`
-__The George Washington University__
-Master Degree
+__2016 - 2018__
+The George Washington University
+`Master Degree in Data Science`
 
-`2012 - 2016`
-__Renmin University of China__
-Bachelor Degree 
+__2012 - 2016__
+Renmin University of China
+`Bachelor Degree in Managemenr`
 
 ## Awards
-
-`2012`
-Name of Award, Organization 
+__2012__
+Third Prize Scholarship，Renmin University of China
+Scholarship for Honorable Mention of Best Exchange Student, Renmin University of China
 
 ## Projects
 
-`2016`
+__2016__
 Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Internship
 
 `March 2016 - July 2016`
-__Data Analyst Intern__, UBER 
+Data Analyst Intern, __UBER__ 
 
 - Task
 - Task
