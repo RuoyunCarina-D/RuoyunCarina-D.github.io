@@ -25,7 +25,7 @@ Scholarship for Honorable Mention of Best Exchange Student, Renmin University of
 ## Projects
 
 __2016__
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+Prevent injury death, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Internship
