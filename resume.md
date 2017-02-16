@@ -30,8 +30,14 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 
 ## Internship
 
-`March 2016 - July 2016`
+`Mar. 2016 - July 2016`
 Data Analyst Intern, __UBER__ 
+
+- Task
+- Task
+
+`Jan. 2016 - Mar. 2016`
+Market Analyst Intern, __Nielsen__ 
 
 - Task
 - Task
