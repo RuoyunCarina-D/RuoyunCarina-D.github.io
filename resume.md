@@ -10,17 +10,20 @@ Member of GW Chinese Students and Scholars Association
 ## Education
 
 __2016 - 2018__
-The George Washington University
-`Master Degree in Data Science`
+`The George Washington University`
+MSc in Data Science
 
 __2012 - 2016__
-Renmin University of China
-`Bachelor Degree in Managemenr`
+`Renmin University of China`
+Bachelor in Managemenr
 
 ## Awards
 __2012__
-Third Prize Scholarship，Renmin University of China
-Scholarship for Honorable Mention of Best Exchange Student, Renmin University of China
+
+`Third Prize Scholarship`, Renmin University of China
+
+
+`Scholarship for Honorable Mention of Best Exchange Student`, Renmin University of China
 
 ## Projects
 
