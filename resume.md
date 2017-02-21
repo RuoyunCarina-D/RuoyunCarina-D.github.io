@@ -27,9 +27,14 @@ __2012__
 
 ## Projects
 
-__2016__
-Prevent injury death, <a href="http://MyWebsite.tld/presentation1">Click to learn more</a>
+__Social Network Analysis__
+- Ongoing social network analysis project on R to analysis relationship with cancer and inheritance using Exponential-Family Random Graph Models (ERGMs)
+, <a href="http://MyWebsite.tld/presentation1">Click to learn more</a>
 
+__Database and Visualization__
+Transformed Yelp data of JSON format into CSV with Python script and conducted ETL process to build database on PostgreSQL.
+
+Visualized customer churn to analyzed market saturation on Tableau with Sankey chart based on Sigmoid function.
 
 ## Internship
 
