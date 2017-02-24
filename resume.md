@@ -40,22 +40,23 @@ __Database and Visualization__
 `Mar. 2016 - July 2016`
 Data Analyst Intern, __UBER__ 
 
-- Task
-- Task
+- Established probabilistic models of Bernoulli distribution to optimize promotion estimation.
+- Built dashboard with advanced formulas (e.g. match, index) on Excel to showcase operation of 18 cities. 
+- Gathered and analyzed daily operation data of competitors in support of promotion strategy.
 
 `Jan. 2016 - Mar. 2016`
 Market Analyst Intern, __Nielsen__ 
 
-- Task
-- Task
+- Proposed the most promising type of customers by analyzing research data of dairy shoppers.
+- Computed Brand Evaluation Index of 14 supermarkets from 4 dimensions on SPSS.
 
 ## Volunteers
 
 `March 2016 - July 2016`
 Project Manager, __SK SUNNY Campus Volunteers__
 
-- Task
-- Task
+- Led a team of 11 undergraduates to hold a Green Riding activity.
+- Orchestrated three main activities aimed at publicizing pollution abatement
 
 
 <!-- ### Footer
